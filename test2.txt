@@ -1,2 +1,2 @@
 This is test2 repo
-practicing git commands such as git fetch , git pull , git merge etc..
+practicing git commands such as git fetch , git pull , git merge , git rebase
