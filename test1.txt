@@ -1,3 +1,2 @@
-This is a test repo
-Updating contents locally
-
+This is a test repo	
+Upadted contents directly on a remote branch
